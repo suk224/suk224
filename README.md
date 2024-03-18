@@ -11,4 +11,4 @@ suk224/suk224 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 if you're facing in building apk in AhMyth. you don't need to do anything make sure that you have enabled java 11..
-1st you have go to terminal in root or normal as your preference- simply Zipalign for that type Sudo apt remove zipalign and after that type sudo apt autoremove according to instruction as shown after removing zipaing and then go to ahmyth and build your apk without any error
+1st you have to go to terminal in root or normal as your preference- simply remove Zipalign for that type Sudo apt remove zipalign and after that type sudo apt autoremove according to instruction as shown after removing zipaing and then go to ahmyth and build your apk without any error
